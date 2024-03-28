@@ -1,1 +1,14 @@
 Сравнение получившейся ветки master и удаленной ветки demo показало, что они отличаются содержимым файла README
+
+На текущий момент в ветке master имеется 11 коммитов:
+3cf61cd42eb700505e7ec14aee1237c46dd56bc7 Add hometask.txt file
+53ed13dad4a3fefe14ac2facef63ddd07dc63417 Merge branch 'boots_buttons'
+7e4eaf2b7c4d38030e34e5b4ca7ba77114573596 Merge remote-tracking branch 'origin/hat'
+0edc5c4cf121bc90e121b0febb2ff84fddfad67b Merge remote-tracking branch 'origin/buttons' into boots_buttons
+d85f80a33167bd961534d469e1a9e3a46fc06954 Merge remote-tracking branch 'origin/boots' into boots_buttons
+df455a79680d70a43d65351f338e25d0ef26c169 fix readme
+1db7b7a68098af0fd01a77aca5f808a817d5c2e3 dots
+079fa1b2baa18b6a7a03ff3a7d00e9fca4d43a0c README added
+152f859ca641e70864aa907bc1f5b1ba3b27acd9 boots
+949c4a16dbb5cd482965537bfb1558e078afd252 heat added
+7d5cd9d87337dcd48708dce597a3c0566cb349ef init
